@@ -1,4 +1,4 @@
-# Bryn Jones - Web Developer Portfolio
+# KIM YUN JUNG - Web Developer Portfolio
 
 웹 개발자 포트폴리오 웹사이트입니다. HTML, CSS, JavaScript로 구현된 반응형 웹사이트입니다.
 
@@ -51,18 +51,20 @@ python -m http.server 8000
 ## 커스터마이징
 
 ### 색상 변경
+
 `style.css` 파일의 상단에 있는 CSS 변수를 수정하세요:
 
 ```css
 :root {
-    --primary-color: #e63946;  /* 메인 색상 */
-    --text-dark: #1a1a1a;      /* 진한 텍스트 */
-    --text-gray: #666;          /* 회색 텍스트 */
-    --bg-light: #f8f9fa;       /* 배경 색상 */
+  --primary-color: #e63946; /* 메인 색상 */
+  --text-dark: #1a1a1a; /* 진한 텍스트 */
+  --text-gray: #666; /* 회색 텍스트 */
+  --bg-light: #f8f9fa; /* 배경 색상 */
 }
 ```
 
 ### 내용 수정
+
 `index.html` 파일에서 텍스트와 내용을 직접 수정할 수 있습니다.
 
 ## 기술 스택
@@ -82,4 +84,3 @@ python -m http.server 8000
 ## 라이선스
 
 MIT License
-
